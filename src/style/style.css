@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'fontGame';
+    src: url('font/zorque.ttf');
+}
+
+.gameBauCua{
+
+    font-family: fontGame!important;
+}
+.game__title{
+    font-size: 50px;
+}
+.tienThuong{
+    font-size: 25px;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
